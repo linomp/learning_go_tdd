@@ -6,7 +6,7 @@ import "fmt"
 const spanishCode = "Spanish"
 const frenchCode = "French"
 
-// Hello greets a person or the world!
+// Hello greets a person or the world! (public function)
 func Hello(name string, langCode string) string {
 	if name == "" {
 		name = "world"
@@ -15,7 +15,8 @@ func Hello(name string, langCode string) string {
 	return getPrefix(langCode) + name
 }
 
-// declaring a named return value
+// declaring a named return value, gets displayed in Go doc
+// lowercase: private function
 func getPrefix(langCode string) (greetingPrefix string) {
 
 	switch langCode {
