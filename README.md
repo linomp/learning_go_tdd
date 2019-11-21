@@ -4,7 +4,8 @@ I am so happy to have come across this material.
 
 ### The tutorial:
 
-https://github.com/quii/learn-go-with-tests/blob/master/hello-world.md
+- [Repo](https://github.com/quii/learn-go-with-tests)
+- [GitBook](https://quii.gitbook.io/learn-go-with-tests/)
 
 ### Interesting articles, etc. regarding Golang:
 
