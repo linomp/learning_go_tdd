@@ -2,6 +2,15 @@ package structs
 
 import "math"
 
+// interface declaration
+// interface resolution is implicit.
+
+// If the type you pass in matches what the interface is asking for,
+// it will compile
+type Shape interface {
+	Area() float64
+}
+
 func Perimeter(r Rectangle) float64 {
 	return 2 * (r.Height + r.Width)
 }
@@ -29,4 +38,13 @@ type Circle struct {
 
 func (c Circle) Area() float64 {
 	return math.Pi * c.Radius * c.Radius
+}
+
+type Triangle struct {
+	Width  float64
+	Height float64
+}
+
+func (t Triangle) Area() float64 {
+	return t.Height * t.Width / 2
 }
