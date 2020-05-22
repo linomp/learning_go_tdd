@@ -1,7 +1,5 @@
 # Learning Go with Tests
 
-I am so happy to have come across this material.
-
 ### The tutorial:
 
 - [Repo](https://github.com/quii/learn-go-with-tests)
