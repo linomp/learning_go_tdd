@@ -2,8 +2,7 @@
 
 ### Resources:
 
-- [Repo](https://github.com/quii/learn-go-with-tests)
-- [GitBook](https://quii.gitbook.io/learn-go-with-tests/)
+- Learn Go with Tests: [Repo](https://github.com/quii/learn-go-with-tests) / [GitBook](https://quii.gitbook.io/learn-go-with-tests/)
 - [Effective Go](https://golang.org/doc/effective_go.html)
 
 ### Interesting articles, etc. regarding Golang:
