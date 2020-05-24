@@ -10,7 +10,7 @@
 
 [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
 
-[GoF Design Patterns in Go] https://ecs.wgtn.ac.nz/foswiki/pub/Main/TechnicalReportSeries/ECSTR11-01.pdf
+[GoF Design Patterns in Go](https://ecs.wgtn.ac.nz/foswiki/pub/Main/TechnicalReportSeries/ECSTR11-01.pdf)
 
 [Go's declaration syntax: why it's so different from C's](https://blog.golang.org/gos-declaration-syntax)
 
