@@ -1,13 +1,16 @@
 # Learning Go with Tests
 
-### The tutorial:
+### Resources:
 
 - [Repo](https://github.com/quii/learn-go-with-tests)
 - [GitBook](https://quii.gitbook.io/learn-go-with-tests/)
+- [Effective Go](https://golang.org/doc/effective_go.html)
 
 ### Interesting articles, etc. regarding Golang:
 
 [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
+
+[GoF Design Patterns in Go] https://ecs.wgtn.ac.nz/foswiki/pub/Main/TechnicalReportSeries/ECSTR11-01.pdf
 
 [Go's declaration syntax: why it's so different from C's](https://blog.golang.org/gos-declaration-syntax)
 
